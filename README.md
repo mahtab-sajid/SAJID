@@ -1,3 +1,2 @@
 # SAJID
 
-cd sajid01
