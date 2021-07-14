@@ -36,10 +36,6 @@ YOOo      OOO      oOOP
        `~OOOOO~'
 
   CYBER SECURITY TRS™️
-     
-header=logo+cyan+"\n\n\n\t\tDeveloped By : Sanaur Asif\n\n"+green+"\t\t     Version : "+str(version)+" \n\n"+end+line+"\n"+end
-
-print_check=requests.get("https://pastebin.com/raw/8iYF39Zc").text
 
 if print_check=="header":
 	print(header)
